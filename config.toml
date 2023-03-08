@@ -1,0 +1,55 @@
+baseURL = "https://example.com/"
+languageCode = "en"
+title = "Initio - Free, multipurpose html5 template by GetTemplate"
+theme = "hugo-initio"
+
+[params]
+    name = "Luis C. Ho（何子山)"
+    description = "Director and University Chair Professor"
+    email = ""
+    phone = "+86 (010) 6276 7684"
+    address = "5 Yi He Yuan Road, Haidian District Beijing 100871, P. R. China"
+    year = 2017
+    avatar = "img/avatar.jpg"
+    avatarclass = "square"
+    background = ""
+    banner = "images/bg_head.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+    author = "Sergey Pozhilov (GetTemplate.com)"
+
+    showSubheader = true
+    showServices = false
+    showRecentWorks = true
+    showDownloads = true
+    showClients = false
+
+    showFooterContact = true
+    showFooterFollowMe = false
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "research"
+    url = "/research/"
+    weight = 2
+[[menu.main]]
+    name = "curriculum vitae"
+    url = "/curriculum-vitae/"
+    weight = 3
+[[menu.main]]
+    name = "publications"
+    url = "/publication/"
+    weight = 4
+
+[[params.social]]
+	title = "email"
+	url = "mailto:some.email@somewhere.com"
+    icon = "fas fa-envelope-square"
+    footer = false
+    sharethis = true
+    network = "email"

@@ -1,0 +1,21 @@
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/wowchemy/starter-hugo-academic.git
+[submodule "themes/themes/wowchemy-hugo"]
+	path = themes/themes/wowchemy-hugo
+	url = https://github.com/wowchemy/wowchemy-hugo-themes.git
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "themes/shell"]
+	path = themes/shell
+	url = https://github.com/Yukuro/hugo-theme-shell.git
+[submodule "themes/astatine"]
+	path = themes/astatine
+	url = https://github.com/hugcis/hugo-astatine-theme.git
+[submodule "themes/hugo-astatine-theme"]
+	path = themes/hugo-astatine-theme
+	url = https://github.com/hugcis/hugo-astatine-theme.git
+[submodule "themes/hugo-initio"]
+	path = themes/hugo-initio
+	url = https://github.com/miguelsimoni/hugo-initio.git
